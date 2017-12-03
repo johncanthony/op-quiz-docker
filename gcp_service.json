@@ -1,0 +1,14 @@
+
+{
+      "type": "service_account",
+        "project_id": "is-ops-challenge",
+          "private_key_id": "bf8714f30216944db09d6b7fee44f287f2bc7e8b",
+            "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCziRW/XdIAyuWq\nIyyLLlbapriJm0BHatRsYl+VDYgJsxRpM97FVtTXi12Xmk+S7/FwF0r1bZ+aGwIL\nIYktlc/ul1IOlP2qsTrZBXkEegIokNa9Nbh3xIi0WPI2Gq0RmC04HjSB+226xssj\nyeJ9bKtqIDWpWv3c5MvE8lXBTym+M7jyHBYaLCYBFtGy4OZrgCnk7widYbW7g3iK\n3VH2I/e9Lc1ZxQxS8ijTupATZfnb9KspLbQ3dxUm5cn/Fa104XndpZYXwJeMrZxF\n3L+/kvrG5LzR1AWaCA1YaHn2TjE9Kn02mp4BTJ2gUaUIdbJtCQyYJnGxGvv5wbgm\nvy93TwmlAgMBAAECggEADqEsuNOlVCk0aRZv/8YT5RdRfEJpYihuDN2V76hoSG9j\nn2WkUSz6hQyMi4Oog6RdETGPYHZsBfu4wT1yAdlDq1aApO2Lyh1NBU2Gh1CF3Suy\n7pIdE61b0mOua62QIsSQEr2WBm19izW9weR75JU2q/GEozs7P9po/Fse6nSlRc6q\n23gLOxoQG4Wh3AQeFWAT3/416aBu/THgoIhxv/8Z0OVM2tnLxe5Dc1GkjVp+7OLv\ndPlWvDAkcZG2wfXbUh7kb4BuZyaUQ8GhcxI/dA24WMmzruTG3FdESH/oTR0dhlR8\noPuGxHFn30SnhORPZ7jXQSOV9RdsP/J9yjFQp/gk9QKBgQDfJY7lUGQ/hVgzwdb4\njnd8UenJtspBUohmGtQDhhbVg3qzGdWYaphI64sDdMBS/nA30EJom8Hbc1HTmKyL\nii4+ZcVXy50THcxZstyI553cnPrcjQoYq9Id2QrDWpJlAHRHB8HJOdCzRhCw9wag\nAdStXCBxf8jd1pXrf6/941tfgwKBgQDN98+93CyztLjo/vUm0i0pgRaB8Mket2Vv\n3QKIoM96yATtV2jIl/V1y1bQ4d5ZF9DIKxnfRvHucCeoLq2nLtcoj+ov1yg6KZmR\nehqiZmLf4pSzg83R9980EyGHpRv6F3K33L1Da2N8AEQ9QgCYPdgkZpE4rZJKA5fM\nXTcZvVTBtwKBgQDEpJtlV0/QbljI24Pua9W9142XdZ6MrAeJOxEkvdB3fbLuC9Ef\nzKfActmBRSyKtq/7b2pmNwRBuEEen4dGPJH96L9cXBFinDrNvQH9H2cM18V2AFAq\nZ5f1N6P1fWZO3XSad6p9Apb4tMDWwgmzjYl28B2jB4HihEx/SHm12dpWswKBgDxJ\nsB4jx1XmrUVN85YkaSG/7kWkpEoAZomiyG4TnAeVapPKRRqKGEgdd9D2fC3Z4bvl\nmdIYIxKm84Sv/RZ1iHcQAP113gmASboiYo9spr5fxSTyjJlME6JbgzIAKzs+B883\nppKIaXtPXKoNmrz1RUIKX7GWZL6TZKhmFI3NNHTrAoGABwYRXt6iAS8plQ8xK2c1\n1bEyw5RxZNS2x3BT5xSmQydiZwPFMgsSmU5NV8IG087be+aZX3PiC401bAX/+Iz2\nejHkwSMM+3vh4u7WRCdT8894d2alK/j00FJit2G+kQagtXFiid0HpIXzkcspBouH\nzbVa6FOSnU5DAutigkCDUOk=\n-----END PRIVATE KEY-----\n",
+              "client_email": "ops-challenge-1@is-ops-challenge.iam.gserviceaccount.com",
+                "client_id": "116102158160213140404",
+                  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+                    "token_uri": "https://accounts.google.com/o/oauth2/token",
+                      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+                        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ops-challenge-1%40is-ops-challenge.iam.gserviceaccount.com"
+}
+

@@ -1,0 +1,15 @@
+apiVersion: autoscaling/v1
+kind: HorizontalPodAutoscaler
+metadata:
+    name: jca-app
+    namespace: john-c-anthony
+spec:
+    maxReplicas: 3
+    minReplicas: 2
+    scaleTargetRef:
+        apiVersion: extensions/v1beta1
+        kind: Deployment
+        name: jca-app
+    targetCPUUtilizationPercentage: 50
+
+
